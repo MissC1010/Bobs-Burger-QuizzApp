@@ -1,0 +1,98 @@
+[
+  {
+    "question": "What is the name of Tina's favorite boy band?",
+    "choice1": "Boyz 4 Now",
+    "choice2": "Boys II Men",
+    "choice3": "One Direction",
+    "choice4": "New Kids on the Block",
+    "answer": 1
+  },
+  {
+    "question": "What is the name of Bob's eccentric landlord?",
+    "choice1": "Mr. Fischoeder",
+    "choice2": "Mr. Frond",
+    "choice3": "Hugo",
+    "choice4": "Calvin Fischoeder",
+    "answer": 1
+  },
+  {
+    "question": "What is the title of Tina's erotic friend fiction story?",
+    "choice1": "The Hormone-iums",
+    "choice2": "Two for Tina",
+    "choice3": "Fifty Shades of Tina",
+    "choice4": "Tina in Wonderland",
+    "answer": 2
+  },
+  {
+    "question": "What is Linda's sister's name?",
+    "choice1": "Gayle",
+    "choice2": "Gretchen",
+    "choice3": "Gloria",
+    "choice4": "Giselle",
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the school that the Belcher kids attend?",
+    "choice1": "Wagstaff School",
+    "choice2": "Springfield Elementary",
+    "choice3": "Hillwood School",
+    "choice4": "Greendale Academy",
+    "answer": 1
+  },
+  {
+    "question": "What is the name of Teddy's ex-wife?",
+    "choice1": "Denise",
+    "choice2": "Dolores",
+    "choice3": "Debbie",
+    "choice4": "Diana",
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the mysterious graffiti artist in Bob's Burgers?",
+    "choice1": "Turd Burglar",
+    "choice2": "Spray Master",
+    "choice3": "The Chalk Bandit",
+    "choice4": "Graffiti Ghost",
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the magazine that Tina writes for in one episode?",
+    "choice1": "Teen Vogue",
+    "choice2": "The Mad Pooper",
+    "choice3": "Horse & Hound",
+    "choice4": "The Thundergirls Gazette",
+    "answer": 2
+  },
+  {
+    "question": "What is the name of Bob's favorite holiday?",
+    "choice1": "Thanksgiving",
+    "choice2": "Christmas",
+    "choice3": "Halloween",
+    "choice4": "Burgerfest",
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the boat that Bob buys?",
+    "choice1": "The Sea Shanty",
+    "choice2": "The Love Boat",
+    "choice3": "The Indecision",
+    "choice4": "The Queen of Hearts",
+    "answer": 3
+  },
+  {
+    "question": "What is Linda's favorite alcoholic drink that she often mentions and enjoys?",
+    "choice1": "Wine",
+    "choice2": "Vodka",
+    "choice3": "Whiskey",
+    "choice4": "Tequila",
+    "answer": 1
+  },
+  {
+    "question": "In the Bob's Burgers Christmas episode 'Bob Rest Ye Merry Gentle-Mannequins,' what festive display does Bob create in the restaurant window?",
+    "choice1": "A Santa Claus mannequin",
+    "choice2": "A Nativity scene",
+    "choice3": "A winter wonderland diorama",
+    "choice4": "A gingerbread house",
+    "answer": 3
+  }
+]
